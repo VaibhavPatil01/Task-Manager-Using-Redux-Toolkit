@@ -14,7 +14,7 @@ Add, delete, and manage tasks with a clean UI and predictable state management.
 ## 🛠 Tech Stack
 
 - React — UI
-- Redux Toolkit — State management (slices, createAsyncThunk, configureStore)
+- Redux Toolkit — State management (slices, configureStore)
 
 ## 🎯 Features
 
