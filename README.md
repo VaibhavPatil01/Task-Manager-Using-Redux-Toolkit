@@ -24,7 +24,7 @@ Add, delete, and manage tasks with a clean UI and predictable state management.
 - Filter tasks (All / Completed)
 - Responsive layout for mobile & desktop
 
-## 🙌 Thanks for Visiting
+## 🙌 Thanks for Visiting 
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!  
 Feel free to fork, use, improve, or share!
